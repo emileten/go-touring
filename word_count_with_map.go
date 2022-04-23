@@ -1,3 +1,4 @@
+// credits : https://go.dev/tour
 package main
 
 import (
